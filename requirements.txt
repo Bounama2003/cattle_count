@@ -1,0 +1,4 @@
+faiss-cpu
+opencv-python
+ultralytics
+pyttsx3
